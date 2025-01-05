@@ -1,0 +1,69 @@
+CPU 1xxxxx 
+	Intel 11xxxx
+		Intel Gen14 111xxx
+		Intel Gen13 112xxx
+		Intel Gen12 113xxx
+				I9 11x1xx
+				I7 11x2xx
+				I5 11x3xx
+				I3 11x4xx
+	AMD 12xxxx
+		8000 121xxx	
+		7000 122xxx	
+		5000 123xxx
+				R9 12x1xx
+				R7 12x2xx
+				R5 12x3xx
+
+Mainboard 2xxxxx
+	Gigabyte 21xxxx
+	MSI 22xxxx
+	ASUS 23xxxx
+		AM5 2x1xxx
+		AM4 2x2xxx
+		LGA-1700 2x3xxx
+		LGA-1200 2x4xxx
+				ATX 2xx1xx
+				Micro-ATX 2xx2xx
+				E-ATX 2xx3xx
+
+GPU 3xxxxx
+	Gigabyte 31xxxx
+	ASUS 32xxxx
+	MSI 33xxxx
+		4000 Series 3x1xxx
+		3000 Series 3x2xxx
+		2000 Series 3x3xxx
+		7000 Series 3x4xxx
+		6000 Series 3x5xxx
+
+Ram 4xxxxx
+	DDR5 41xxxx
+	DDR4 42xxxx
+		CORSAIR 4x1xxx
+		KINGSTON 4x2xxx
+		G.SKILL 4x3xxx
+				3200Mhz 4xx1xx
+				3600Mhz 4xx2xx
+				5200Mhz 4xx3xx
+
+SSD 5xxxxx
+	M.2 51xxxx
+	SATA 52xxxx
+		KINGSTON 5x1xxx
+		APACER 5x2xxx
+			1TB 5xx1xx
+			500GB 5xx2xx
+			480GB 5xx3xx
+			256GB 5xx4xx
+
+Power SUp 6xxxxx
+	GIGABYTE 61xxxx
+	MSI 62xxxx
+	THERMALTAKE 63xxxx
+	CORSAIR 64xxxx
+			1200W 6x1xxx
+			1000W 6x2xxx
+			850W 6x3xxx
+			750W 6x4xxx
+			550W 6x5xxx
