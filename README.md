@@ -24,7 +24,7 @@ project-computer-store-cpp/
 |     ├── password.txt      # User Password Temp File
 |     ├── username.txt      # User Name Temp File
 |     └── cart/      # Carts Folder
-            └── cart.txt         # Cart Temp File
+|           └── cart.txt         # Cart Temp File
 ```
 
 ## ⚙️ Installation 
@@ -37,5 +37,8 @@ git clone https://github.com/zChuckyX/project-computer-store-cpp.git
 cd project-computer-store-cpp
 ```
 ```bash
-g++ -o store main.cpp
+gcc main.cpp -o main.exe
+```
+```bash
+main.exe
 ```
