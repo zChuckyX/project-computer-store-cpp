@@ -16,7 +16,7 @@ This project is open-source under the MIT License. Let me know if you need any m
 
 ```bash
 project-computer-store-cpp/
-├── LICENSE            # File containing the license (MIT License)
+├── LICENSE         # File containing the license (MIT License)
 ├── README.md       # Documentation file explaining how to use the project
 ├── main.cpp        # Main file
 ├── user/           # Users Folder
